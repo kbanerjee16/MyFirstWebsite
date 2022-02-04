@@ -1,0 +1,40 @@
+*{
+	color: hotpink;
+	background-color: bisque;
+}
+
+h1 {
+	color: red;
+}
+
+.Major-Heading {
+	color: teal !important;
+}
+
+#bio-intro {
+	background-color: green;
+}
+
+h3, h4 {
+	background-color: burlywood;
+}
+
+p.Example {
+	font-family: Garamond;
+	background-color: blue;
+}
+
+a:hover {
+	color: red;
+}
+
+p {
+	min-width:100px;
+	width: 200px;
+	
+	border-style: double;
+	border-radius: 10px;
+	
+	padding: 20px, 10px, 30px, 50px;
+	/* comment padding top, left, bottom, right */
+}
